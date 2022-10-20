@@ -86,3 +86,19 @@ h2{
     font-size: 1.5rem;
     margin-top: 10px;
 }
+
+.portofolio .lien{
+    color: black;
+}
+
+.portofolio .titre{
+    color: black;
+}
+
+.menuPort {
+    flex-direction: row;
+}
+
+.portofolio {
+    display: flex;
+}
