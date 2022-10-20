@@ -1,0 +1,88 @@
+.ble{
+    height: 100vh;
+    background-image: url('HERO.jpg');
+    padding: 0;
+}
+
+.navigation{
+    height: 20%;
+    background-color: rgba(0, 0, 0, 0.441);
+}
+.boitePunchline{
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.elementsNav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.logo{
+    font-weight: bolder;
+    color: white;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+.lien{
+    margin: 5px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 4px;
+    font-weight: bolder;
+}
+.bordureBleue{
+    border: solid 2px rgb(0, 85, 255);
+}
+.eBleu{
+    color: rgb(0, 85, 255);
+}
+.punchline{
+    
+    color: white;
+    background-color: rgba(0, 0, 0, 0.441);
+    font-size: 2.5rem;
+    padding:4px;
+    margin-top: 4px;
+}
+
+.services {
+    background-color: rgb(100, 174, 254);
+}
+
+.titre {
+    font-weight: bolder;
+    color: white;
+    font-size: 2rem;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.carte{
+    color: white;
+    margin: 15px;
+    padding-bottom: 20px;
+}
+
+p{
+    margin-top: 10px;
+    font-size: 0.8rem;
+}
+
+.cartes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+h2{
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
